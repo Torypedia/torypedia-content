@@ -1,11 +1,14 @@
 - CONTENT\
-  - PEOPLE
-  - ORGANISATIONS
-  - CLAIMS
-- NEWS\
-  - 2021
+  - SECTION NAME
     - ITEM 1
     - ITEM 2
     - ITEM 3
-  - 2022
+  - SECTION NAME
     - ITEM 4
+  - NEWS\
+    - 2021
+      - ITEM 1
+      - ITEM 2
+      - ITEM 3
+    - 2022
+      - ITEM 4
